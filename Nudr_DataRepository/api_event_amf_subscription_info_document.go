@@ -12,7 +12,7 @@ package Nudr_DataRepository
 import (
 	"context"
 	"fmt"
-	"free5gc/lib/openapi"
+	"github.com/calee0219/openapi"
 	"io/ioutil"
 	"net/http"
 	"net/url"

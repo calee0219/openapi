@@ -12,8 +12,8 @@ package Nsmf_PDUSession
 import (
 	"context"
 	"fmt"
-	"free5gc/lib/openapi"
-	"free5gc/lib/openapi/models"
+	"github.com/calee0219/openapi"
+	"github.com/calee0219/openapi/models"
 	"io/ioutil"
 	"net/http"
 	"net/url"

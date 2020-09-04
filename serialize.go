@@ -5,7 +5,7 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"free5gc/lib/openapi/logger"
+	"github.com/calee0219/openapi/logger"
 )
 
 // Serialize - serialize data v to corresponding media type
